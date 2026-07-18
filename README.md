@@ -26,6 +26,4 @@ logo auren 👇
 
 ![Screenshot_2026-07-19-05-15-14-748_com.android.chrome.jpg](https://github.com/user-attachments/assets/da4c28c1-e449-4caf-b598-35e59329cb2e)
 
-![Screenshot_2026-07-19-05-15-50-204-edit_com.android.chrome.jpg](https://github.com/user-attachments/assets/c851d4a1-8de1-4ee1-a64f-c4f42012689e)
-
-nhớ khi đọc file này xong rồi thì thẩy thiết kế lại file nầy thành file docs lun nhé và link trên đầu tiên là link của file nầy lun khi bạn thiết kế trang dóc trên file này nó sẽ hiện trực tiếp trên link đầu tên đó. 
+![Screenshot_2026-07-19-05-15-50-204-edit_com.android.chrome.jpg](https://github.com/user-attachments/assets/c851d4a1-8de1-4ee1-a64f-c4f42012689e) 
