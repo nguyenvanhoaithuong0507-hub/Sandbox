@@ -5,8 +5,8 @@ import AuthProvider from "@/components/auth/AuthProvider";
 import { MenuProvider } from "@/components/navigation/MenuContext";
 
 export const metadata: Metadata = {
-  title: "SandboxCodeX",
-  description: "AI Software Engineering Workspace",
+  title: "SandboxCodeX IDE Docs",
+  description: "Mobile-first AI sandbox IDE documentation workspace",
 };
 
 export default function RootLayout({
@@ -19,8 +19,8 @@ export default function RootLayout({
       <body
         style={{
           margin: 0,
-          background: "#161616",
-          color: "#fff",
+          background: "#08090d",
+          color: "#f8fafc",
           fontFamily: "IBM Plex Sans, sans-serif",
         }}
       >
