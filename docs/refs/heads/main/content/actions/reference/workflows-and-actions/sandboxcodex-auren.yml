@@ -31,7 +31,7 @@ jobs:
       - name: Gọi AI Agent sửa lỗi (Nếu chạy thất bại)
         if: steps.run_code.outcome == 'failure'
         env:
-          OPENAI_API_KEY: ${{ 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 }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
           echo "Phát hiện lỗi hệ thống! Đang gọi sandboxcodex-auren Agent..."
           python agent_fixer.py
